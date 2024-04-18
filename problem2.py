@@ -19,5 +19,3 @@ while b <= limit:
     a, b = b, a + b
 
 print(even_num_sum)
-
-
